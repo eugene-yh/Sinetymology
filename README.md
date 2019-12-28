@@ -30,7 +30,7 @@ Increment speed of entries: 5-10 / week
 
 * K - O:
 
-立马（儿）  马上  
+立马（儿）  马上  贸易  
 
 * P - T:
 
