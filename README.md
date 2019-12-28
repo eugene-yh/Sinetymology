@@ -22,7 +22,7 @@ Increment speed of entries: 5-10 / week
 ### View by markdown
 * A - E:
 
-保释  保险  保障  报纸  辩护人  啤酒  冰窖  冰激凌·冰淇淋  博览会  博物馆  博士  博物  博物馆  博物院  不动产  常备军  车票
+[保释](https://github.com/eugene-yh/Sinetymology/blob/master/markdown_data/%E4%BF%9D%E9%87%8A.md)  保险  保障  报纸  辩护人  啤酒  冰窖  冰激凌·冰淇淋  博览会  博物馆  博士  博物  博物馆  博物院  不动产  常备军  车票
 
 * F - J:
 
