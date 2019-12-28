@@ -8,6 +8,8 @@ By etymologies of modern Chinese Lexicon, we mean:
 
 Chinese languages, such as Mandarin, Cantonese, Hokkien, etc., have a ideographic character-based script. Although each character has its own semantics and evolution history, it is not always an idiosyncratic word, which is especially the case for modern Chinese languages. Therefore, to stick to the the defintion of etymology (i.e., history of words), we decided to initiate this project that solely concerns origins and evolution of Chinese words because there had been no freely available collected contents about them online.
 
+We hope this data can be useful for Chinese language learners and sinological enthusiasts, both in China and any part in the world.
+
 Anyone can contribute to this project as long as credited literature and reliable materials are provided. 
 See more about this [here](#Contribute)
 
