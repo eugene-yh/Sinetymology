@@ -14,10 +14,37 @@ See more about this [here](#Contribute)
 The data can be copied, distributed and displayed under the CC-BY-SA-4.0 license. There are some restrictions in order to protect the intellectual but tedious work of contributors.
 
 ## Statistics
+Number of entries: 5
 
+Increment speed of entries: 5-10 / week
+
+## Data
+### View by markdown
+* A - E:
+
+保释  保险  保障  报纸  辩护人  啤酒  冰窖  冰激凌·冰淇淋  博览会  博物馆  博士  博物  博物馆  博物院  不动产  常备军  车票
+
+* F - J:
+
+尴尬
+
+* K - O:
+
+立马（儿）  马上  
+
+* P - T:
+
+* U - Z:
+
+
+### View by pdf
+(the detailed contents of this part is coming soon.)
+
+### Data retrieval by json
+(the detailed contents of this part is coming soon.)
 
 ## Contribute
-blablabla
+(the detailed contents of this part is coming soon.)
 
 ## LICENSE
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. 
