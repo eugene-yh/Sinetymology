@@ -30,7 +30,7 @@ Increment speed of entries: 5-10 / week
 
 * K - O:
 
-立马（儿）  马上  贸易  
+立马（儿）  马上  [贸易](https://github.com/eugene-yh/Sinetymology/blob/master/markdown_data/%E8%B4%B8%E6%98%93.md)  
 
 * P - T:
 
