@@ -15,8 +15,8 @@ See more about this [here](#Contribute)
 
 The data can be copied, distributed and displayed under the CC-BY-SA-4.0 license. There are some restrictions in order to protect the intellectual but tedious work of contributors.
 
-## Statistics
-Number of available entries: 1
+## Statistics and logs
+Number of available entries: 2
 
 Increment speed of entries: 5-10 / week
 
